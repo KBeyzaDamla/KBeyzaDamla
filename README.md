@@ -5,5 +5,6 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KBeyzaDamla&repo=Website-Examples)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBeyzaDamla)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBeyzaDamla&layout=compact)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KBeyzaDamla)
